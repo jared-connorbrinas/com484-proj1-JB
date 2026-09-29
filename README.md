@@ -4,6 +4,8 @@
 You can view the published website here:
 [Live Website on GitHub Pages](https://jared-connorbrinas.github.io/com484-proj1-JB/)
 
+
+## Synopsis
 A simple, beginner-friendly coffee website created as a web development project. The site is designed to help new coffee drinkers learn about common café drinks, discover cafés, and explore recommended coffee-related products and resources.
 
 ## Features
