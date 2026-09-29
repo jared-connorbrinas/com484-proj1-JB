@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
-<rect width="1200" height="700" fill="#e7dfcf"/>
-<rect x="150" y="140" width="900" height="420" rx="30" fill="#ffffff"/>
-<rect x="225" y="220" width="250" height="240" rx="20" fill="#c9b79c"/>
-<rect x="725" y="220" width="250" height="240" rx="20" fill="#9caf88"/>
-<circle cx="600" cy="330" r="95" fill="#566b50"/>
-<rect x="540" y="415" width="120" height="35" rx="10" fill="#2f2a24"/>
-<text x="600" y="620" text-anchor="middle" font-family="Arial" font-size="42" fill="#2f2a24">Cafe Image Placeholder</text>
-</svg>
