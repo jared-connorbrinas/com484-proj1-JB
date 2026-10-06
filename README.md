@@ -37,9 +37,7 @@ A simple, beginner-friendly coffee website created as a web development project.
 
 - HTML5
 - CSS3
-- JavaScript
-- ReactBits-inspired UI effects and components
-- External website links and embedded resources
+- External website links
 
 ## How to Run the Project
 
@@ -75,8 +73,4 @@ Possible additions include:
 - Dark mode
 - Café location maps
 - More coffee brewing methods
-- Additional animations and UI interactions
-
-## Author
-
-Created as a web development project for learning and practicing front-end development.
+- Additional animations and UI interactionss
